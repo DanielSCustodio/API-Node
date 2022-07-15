@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Lanternas Amarela",
+    "email": "lanternas@dc.com",
+    "password": "123456",
+    "nickname": "Jhons",
+    "id": 0
+  },
+  {
+    "id": 3,
+    "name": "Novo usuario",
+    "email": "newuser@daniel.com",
+    "password": "1256sd",
+    "nickname": "Dans"
+  },
+  {
+    "id": 4,
+    "name": "Abel Silva",
+    "email": "abeste@daniel.com",
+    "password": "123456",
+    "nickname": "Abel Ala"
+  },
+  {
+    "id": 4,
+    "name": "Lanternas Roxa",
+    "email": "lanter@dc.com",
+    "password": "123456",
+    "nickname": "Rox"
+  },
+  {
+    "id": 5,
+    "name": "Mulher Maravilha",
+    "email": "mm@dc.com",
+    "password": "123456",
+    "nickname": "Wonder Woman"
+  }
+]
