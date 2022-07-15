@@ -1,4 +1,4 @@
-# Example
+# API REST/RESTful with Express
 
 To run this example:
 
