@@ -13,8 +13,8 @@
   },
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js",
-    "test": "jest"
+    "dev": "nodemon index.js --ignore 'listUsers.json'",
+    "test": "jest --runInBand"
   },
   "devDependencies": {
     "@types/node": "^17.0.21"

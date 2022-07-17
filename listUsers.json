@@ -1,1 +1,16 @@
-[{"id":0,"name":"Woman","email":"usertets@dc.com","password":"123456","nickname":"Woman"},{"id":3,"name":"Woman","email":"usertets@dc.com","password":"123456","nickname":"Woman"},{"id":4,"name":"Abel Silva","email":"abeste@daniel.com","password":"123456","nickname":"Abel Ala"},{"id":4,"name":"Lanternas Roxa","email":"lanter@dc.com","password":"123456","nickname":"Rox"},{"id":5,"name":"Woman","email":"usertets@dc.com","password":"123456","nickname":"Woman"},{"id":3,"name":"Ash Ketchum","email":"ash@pokemon.com","password":"pikachu123","nickname":"Ash"},{"id":3,"name":"Ash Ketchum","email":"ash@pokemon.com","password":"pikachu123","nickname":"Ash"},{"id":8},{"id":3,"name":"Ash Ketchum","email":"ash@pokemon.com","password":"pikachu123","nickname":"Ash"},{"id":3,"name":"Ash Ketchum","email":"ash@pokemon.com","password":"pikachu123","nickname":"Ash"},{"id":11,"name":"Woman","email":"usertets@dc.com","password":"123456","nickname":"Woman"},{"id":3,"name":"Ash Ketchum","email":"ash@pokemon.com","password":"pikachu123","nickname":"Ash"},{"id":13},{"id":3,"name":"Ash Ketchum","email":"ash@pokemon.com","password":"pikachu123","nickname":"Ash"},{"id":3,"name":"Ash Ketchum","email":"ash@pokemon.com","password":"pikachu123","nickname":"Ash"},{"id":16},{"id":3,"name":"Ash Ketchum","email":"ash@pokemon.com","password":"pikachu123","nickname":"Ash"},{"id":3,"name":"Ash Ketchum","email":"ash@pokemon.com","password":"pikachu123","nickname":"Ash"},{"id":19},{"id":3,"name":"Ash Ketchum","email":"ash@pokemon.com","password":"pikachu123","nickname":"Ash"},{"id":3,"name":"Ash Ketchum","email":"ash@pokemon.com","password":"pikachu123","nickname":"Ash"},{"id":22},{"id":3,"name":"Ash Ketchum","email":"ash@pokemon.com","password":"pikachu123","nickname":"Ash"},{"id":24,"name":"Woman","email":"usertsets@dc.com","password":"123456","nickname":"Womsan"}]
+[
+  {
+    "id": 0,
+    "name": "Super Man",
+    "email": "super@dc.com",
+    "password": "123456",
+    "nickname": "Super Man"
+  },
+  {
+    "id": 2,
+    "name": "Batman",
+    "email": "bat@dc.com",
+    "password": "123456",
+    "nickname": "Bat Hero"
+  }
+]
