@@ -10,3 +10,6 @@ To run this aplication:
 
 To run  tests:
 - `npm test`
+
+Rotes
+- `/user`
