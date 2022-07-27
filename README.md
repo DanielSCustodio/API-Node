@@ -19,7 +19,7 @@ Para realização de testes foram utilizados ```Chai``` e ```Jest```
 
 <br><br>
 
-## OPERAÇÕES
+## OPERAÇÕES DE CRUD
 ### Criar um usuário
 `POST` `http://localhost:3008/user`<br>
 Corpo da requisição <br>
