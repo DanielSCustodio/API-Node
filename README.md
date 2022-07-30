@@ -16,8 +16,7 @@ Para realização de testes foram utilizados ```Chai``` e ```Jest```
 
 ### Rota
 - `http://localhost:3008/user`
-
-<br><br>
+<br>
 
 ## OPERAÇÕES DE CRUD
 ### Criar um usuário
