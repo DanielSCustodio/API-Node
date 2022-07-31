@@ -32,7 +32,7 @@ Corpo da requisição <br>
 ```
 Caso os requisitos abaixo não estejam em conformidade, retornará o `status code` e a `mensagem de erro`, ambos de acordo com cada situação.
 - Não é possível criar usuário com o mesmo email ou nickname
-- Todos os campos são obrigatórios
+- Todos os campos são obrigatórios.
 - ``name`` deve ter no mínimo 5 caracteres
 - ``email`` e ``password`` devem ter no mínimo 6 caracteres
 - ``nickname`` deve ter no mínimo 3 caracteres
