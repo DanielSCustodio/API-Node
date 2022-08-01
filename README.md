@@ -36,9 +36,9 @@ Para realização de testes foram utilizados ```Chai``` e ```Jest```
 Caso os requisitos abaixo não estejam em conformidade, retornará o `status code` e a `mensagem de erro`, ambos de acordo com cada situação.
 - Não é possível criar um usuário com ``email`` ou ``nickname`` já existentes no cadastro.
 - Todos os campos são obrigatórios.
-- ``name`` deve ter no mínimo 5 caracteres
-- ``email`` e ``password`` devem ter no mínimo 6 caracteres
-- ``nickname`` deve ter no mínimo 3 caracteres
+- ``name`` deve ter no mínimo 5 caracteres.
+- ``email`` e ``password`` devem ter no mínimo 6 caracteres.
+- ``nickname`` deve ter no mínimo 3 caracteres.
 
 ### :arrow_right: Buscar um usuário
 `GET` `http://localhost:3008/user/id`<br>
@@ -65,9 +65,9 @@ Caso o requisito abaixo não esteja em conformidade, retornará o `status code` 
 Caso os requisitos abaixo não estejam em conformidade, retornará o `status code` e a `mensagem de erro`, ambos de acordo com cada situação.
 - o ``id`` deve existir.
 - Os campos ``email`` e ``nickname`` devem ser editados obrigatoriamente.
-- ``name`` deve ter no mínimo 5 caracteres
-- ``email`` e ``password`` devem ter no mínimo 6 caracteres
-- ``nickname`` deve ter no mínimo 3 caracteres
+- ``name`` deve ter no mínimo 5 caracteres.
+- ``email`` e ``password`` devem ter no mínimo 6 caracteres.
+- ``nickname`` deve ter no mínimo 3 caracteres.
 
 ### :arrow_right: Deletar um usuário
 `DELETE` `http://localhost:3008/user/id`<br>
