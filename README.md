@@ -1,7 +1,7 @@
 # API REST/RESTful com  Express
 
 ## CONTEXTO
-API com operações de CRUD na rota ```http://localhost:3008/user.```<br>
+API com operações de CRUD na rota ```http://localhost:3008/user```<br>
 Nesse projeto foi utilizado o padrão de arquitetura MSC. Se trata de uma aplicação ```Node``` com o uso de ```Express``` para a construção das rotas.<br>
 Para validação dos dados de entrada foi utilizado  ```Joi```.<br>
 Para realização de testes foram utilizados ```Chai``` e ```Jest```
