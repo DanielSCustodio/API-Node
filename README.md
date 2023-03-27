@@ -1,4 +1,4 @@
-# API Node REST/RESTful com  Express
+# API Node REST/RESTful com  Express.
 
 ## CONTEXTO
 API com operações de CRUD na rota ```http://localhost:3008/user```<br>
